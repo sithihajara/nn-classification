@@ -14,7 +14,8 @@ You are required to help the manager to predict the right group of the new custo
 
 ## Neural Network Model
 
-![Neural network](https://user-images.githubusercontent.com/94219582/228420377-8ecda660-e95c-49e3-bfaa-06daff650971.jpeg)
+![image](https://user-images.githubusercontent.com/94219582/228421311-20c18818-70a5-4be2-9b02-d29cd5d504ac.png)
+
 ## DESIGN STEPS
 
 ### STEP 1:Load the csv file and then use the preprocessing steps to clean the data
